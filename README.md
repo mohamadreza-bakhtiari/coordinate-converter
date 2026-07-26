@@ -1,4 +1,4 @@
-# coordinate-converter 0.1
+# coordinate-converter 1.0
 Convert geographical coordinates from 'Degrees Minutes Seconds' to 'Decimal Degrees' in C++ using Qt.
 
 This version includs a GUI written in Qt.
